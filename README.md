@@ -136,10 +136,8 @@ composer require morilog/jalali
 * [x] Laravel CMS
 * [x] اتصال به GapGPT
 * [x] مدیریت محتوای آموزشی
-## 📌 وضعیت پروژه
-
-این پروژه در حال توسعه است و قابلیت‌های جدید هوش مصنوعی به مرور به آن اضافه می‌شوند.
 
 ## 📄 License
 
 MIT License
+
