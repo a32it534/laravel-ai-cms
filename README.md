@@ -139,7 +139,6 @@ composer require morilog/jalali
 
 **توسعه‌دهنده:** علیرضا فقیریان
 
-از حمایت و همراهی شما سپاسگزارم! ❤️
 ## 📄 License
 
 MIT License
